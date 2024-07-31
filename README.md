@@ -1,8 +1,7 @@
 # Face Detection System 
 
 Version `1.0`   
-
-## This model is based on python 
+ 
 Face detection Softwares are used everywhere, so I tried to create one in python using openCV library.  
 This model basically uses `cascadeclassifier` to detect faces, objects etc.   
 You can install this software on your device by following the below steps:
